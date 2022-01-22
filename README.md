@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @danstonedev
 - 👀 I’m interested in ...studying human movement with IMUs
-- 🌱 I’m currently learning ...everything
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... how much more I have to learn!
+
 
 <!---
 danstonedev/danstonedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
